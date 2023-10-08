@@ -4,9 +4,9 @@
 
 🗺 Moro em Carapicuíba, São Paulo, Brasil. 
 
-🧠 Estou estudando em uma faculdade no curso de ánalise de desenvolvimento de sistemas.
+🌱 Cursando Áalise de desenvolvimento de sistemas.
 
-🌱 Quero me desenvolver em UX/UI Design e Front-end.
+🧠 Foco em UX/UI Design e Front-end.
 
 🎯 Estou em busca da minha primeira oportunidade de emprego.
 
