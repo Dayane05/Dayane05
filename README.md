@@ -1,16 +1,40 @@
-### Hi there 👋
+### Oi! 😄 Vejam bem vindos! Meu nome é Dayane Moreira
 
-<!--
-**Dayane05/Dayane05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco sobre mim! ✨
 
-Here are some ideas to get you started:
+🗺 Moro em Carapicuíba, São Paulo, Brasil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Estou estudando em uma faculdade no curso de ánalise de desenvolvimento de sistemas.
+
+🌱 Quero me desenvolver em UX/UI Design e Front-end.
+
+🎯 Estou em busca da minha primeira oportunidade de emprego.
+
+## Tecnologias 
+
+<div>
+  <h4>Tecnologias - Front-end</h4>
+  <a href="https://github.com/Dayane05?tab=repositories">
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/html5-original.svg" width="50" title="HTML5" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="50" title="CSS3" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+  </a>
+
+  <h4>Tecnologias - Back-end</h4>
+  <a href="https://github.com/Dayane05?tab=repositories">
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="50" title="Javascript" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/dart-original.svg" width="50" title="Dart" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="50" title="Flutter" /></code>
+  </a>
+
+
+  <h4> Ferramenta de Design</h4>
+  <a href="https://github.com/Dayane05?tab=repositories">
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="50" title="Figma" /></code>
+    <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="50" title="Canva" /></code>
+  </a>
+</div>
+
+
+
+ ⚡
