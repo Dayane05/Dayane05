@@ -10,7 +10,7 @@
 
 🎯 Estou em busca da minha primeira oportunidade de emprego.
 
-## Tecnologias 
+## Tecnologias⚡
 
 <div>
   <h4>Tecnologias - Front-end</h4>
@@ -34,7 +34,3 @@
     <code><img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="50" title="Canva" /></code>
   </a>
 </div>
-
-
-
- ⚡
