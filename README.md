@@ -1,4 +1,4 @@
-### Oi! 😄 Vejam bem vindos! Meu nome é Dayane Moreira
+### Oi! 😄 Sejam bem vindos! Meu nome é Dayane Moreira
 
 ## Um pouco sobre mim! ✨
 
