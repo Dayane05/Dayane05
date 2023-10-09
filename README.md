@@ -4,11 +4,14 @@
 
 🗺 Moro em Carapicuíba, São Paulo, Brasil. 
 
-🌱 Cursando Áalise de desenvolvimento de sistemas.
+🌱 Cursando Ánalise de desenvolvimento de sistemas.
 
 🧠 Foco em UX/UI Design e Front-end.
 
 🎯 Estou em busca da minha primeira oportunidade de emprego.
+
+## Rede Social🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayanesm_)
 
 ## Tecnologias⚡
 
