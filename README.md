@@ -11,7 +11,7 @@
 🎯 Estou em busca da minha primeira oportunidade de emprego.
 
 ## Rede Social🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayanesm_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanesm/)
 
 ## Tecnologias⚡
 
