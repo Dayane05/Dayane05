@@ -15,6 +15,8 @@
 
 ## Tecnologias⚡
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&hide_progress=false)
+
 <div>
   <h4>Tecnologias - Front-end</h4>
   <a href="https://github.com/Dayane05?tab=repositories">
