@@ -1,5 +1,7 @@
 ### Oi! 😄 Sejam bem vindos! Meu nome é Dayane Moreira
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 ## Um pouco sobre mim! ✨
 
 🗺 Moro em Carapicuíba, São Paulo, Brasil. 
