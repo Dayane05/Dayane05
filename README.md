@@ -29,5 +29,5 @@
     ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=figma&logoColor=white) 
     ![Canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva3&logoColor=white) 
-  </a>>
+  </a>
 </div>
