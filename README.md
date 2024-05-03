@@ -20,14 +20,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&layout=compact&theme=transparent&hide_progress=false)
 
 <div>
-  <h4>Tecnologias - Front-end</h4>
+  <h4>Tecnologias </h4>
   
-    ![HTML5](https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white) 
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-    ![JavaScript](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white) 
-    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-    ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-    ![Figma](https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=figma&logoColor=white) 
-    ![Canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva3&logoColor=white) 
+ <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/html5-original.svg" width="40" title="HTML5" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="40" title="CSS3" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="40" title="Javascript" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="40" title="Javascript" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/dart-original.svg" width="40" title="Dart" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="40" title="Flutter" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="40" title="Figma" />
+    <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="40" title="Canva" />
   
 </div>
