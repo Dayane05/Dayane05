@@ -21,7 +21,7 @@
 
 <div>
   <h4>Tecnologias - Front-end</h4>
-  <a href="https://github.com/Dayane05?tab=repositories">
+  
     ![HTML5](https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -29,5 +29,5 @@
     ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=figma&logoColor=white) 
     ![Canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva3&logoColor=white) 
-  </a>
+  
 </div>
