@@ -1,4 +1,4 @@
-### Oi! 😄 Sejam bem vindos! Meu nome é Dayane Moreira
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9D3BF7&random=false&width=435&lines=Oi!+%F0%9F%98%84+Sejam+bem+vindos!+Meu+nome+%C3%A9+Dayane+Moreira" alt="Typing SVG" /></a> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
