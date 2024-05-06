@@ -31,3 +31,5 @@
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="40" title="Canva" />
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3755E6&height=120&section=footer"/>
