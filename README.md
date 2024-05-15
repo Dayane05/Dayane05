@@ -27,7 +27,7 @@
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="40" title="Canva" />
  
 </div>
-
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&layout=compact&theme=transparent&hide_progress=false)
 
