@@ -17,11 +17,7 @@
 
 ## Tecnologias⚡
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&layout=compact&theme=transparent&hide_progress=false)
-
 <div>
-  <h4>Tecnologias </h4>
-  
  <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/html5-original.svg" width="40" title="HTML5" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/css3-original.svg" width="40" title="CSS3" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/javascript-original.svg" width="40" title="Javascript" />
@@ -29,7 +25,8 @@
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="40" title="Flutter" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="40" title="Figma" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="40" title="Canva" />
-  
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&layout=compact&theme=transparent&hide_progress=false)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3755E6&height=120&section=footer"/>
