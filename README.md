@@ -25,7 +25,9 @@
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/flutter-original.svg" width="40" title="Flutter" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/figma-original.svg" width="40" title="Figma" />
     <img src="https://github.com/Arthur-Mendes-M/Arthur-Mendes-M/blob/main/.github/canva-original.svg" width="40" title="Canva" />
+ 
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane05&layout=compact&theme=transparent&hide_progress=false)
 
